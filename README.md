@@ -1,4 +1,4 @@
-There are are various alternatives out there which dont work for me, or missed stuff like enabling or disable vgtray too from autostart.
+There are are various alternatives out there which dont work for me, or missed stuff like enabling or disable vgtray too from autostart. (Or removed entries)
 
 Just download all files, and run the Batch as Admin. Use the Stop Batch only if all LoL/Riot Stuff is closed (Game/Client).
 Use the Enable Script and restart your PC.
